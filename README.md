@@ -1,4 +1,4 @@
-Hola, soy Marcos Urrea, un desarrollador Back-end apasionado por crear soluciones innovadoras y escalables. 💻
+Hola, soy Marcos, un desarrollador Back-end apasionado por crear soluciones innovadoras y escalables. 💻
 
 Habilidades:
 
